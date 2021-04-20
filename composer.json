@@ -1,5 +1,5 @@
 {
-    "name": "iMateo/wn-dump-plugin",
+    "name": "imateo/wn-dump-plugin",
     "description": "Winter CMS twig dump",
     "type": "winter-plugin",
     "license": "MIT",
