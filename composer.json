@@ -1,0 +1,14 @@
+{
+    "name": "winter/wn-dump-plugin",
+    "description": "Winter CMS twig dump",
+    "type": "winter-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ihor Chyshkala",
+            "email": "ihor@chyshkala.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
