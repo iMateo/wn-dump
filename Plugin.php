@@ -1,10 +1,11 @@
 <?php
 
-namespace IHORCHYSHKALA\Dump;
+namespace IhorChyshkala\Dump;
 
 use Illuminate\Support\Debug\Dumper;
 use Symfony\Component\VarDumper\VarDumper as VarDumper;
 use Illuminate\Foundation\Application as Laravel;
+
 use System\Classes\PluginBase;
 
 /**

@@ -1,7 +1,9 @@
 {
-    "name": "imateo/wn-dump-plugin",
-    "description": "Winter CMS twig dump",
+    "name": "ihorchyshkala/dump",
     "type": "winter-plugin",
+    "description": "Winter CMS twig dump",
+    "homepage": "https://github.com/iMateo/wn-dump-plugin",
+    "keywords": ["winter", "wintercms", "laravel", "twig", "dump", "error", "dumper", "php"],
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +11,11 @@
             "email": "ihor@chyshkala.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "IhorChyshkala\\Dump\\": ""
+        }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
